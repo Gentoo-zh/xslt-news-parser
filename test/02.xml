@@ -1,0 +1,76 @@
+<?xml version='1.0'?>
+<!DOCTYPE news SYSTEM "/dtd/guide.dtd">
+<!-- $Header: -->
+
+<news gentoo="yes" category="gentoo">
+<poster>清风</poster>
+<date>2013-02-05</date>
+<title>Gentoo 中文社区成立</title>
+<body>
+
+<p>
+<b>Gentoo中文社区的源起</b>
+</p>
+<p>
+Gentoo中文项目，是国内爱好者进行Gentoo Linux交流、讨论的一个技术社区。此次Gentoo中文社区的建设算是第三次组建。
+</p>
+<p>
+</p>
+<p>
+第一次，2004年前后，由linuxsir上面的gentoo爱好者发起并维护，为gentoo在国内的推广做出了贡献，但最终项目因故中止[详见：<uri link="http://gentoo.linuxsir.org/proj/index.xml">http://gentoo.linuxsir.org/proj/index.xml</uri>]。 
+</p>
+<p>
+第二次，2007年开始，由<uri link="http://zhangle.co/">张乐</uri>所发起的第二次Gentoo中文文档的翻译项目。取得的最大成果是将Gentoo手册全部翻译为中文，并将其提交到官方，也就是目前我们看到的<uri link="http://www.gentoo.org/doc/zh_cn/handbook/">官方Gentoo中文手册</uri>，目前<uri link="http://gentoo-zh.org/trads/">翻译项目</uri>还正常运行[详见：<uri link="http://gentoo-zh.org/">http://gentoo-zh.org/</uri>]。
+</p>
+<p>
+此次Gentoo中文项目的发起，算是第三次了。主要由<uri link="http://weibo.com/zhcj">清风</uri>来负责筹建各项事务，最终确定平台名称为“Gentoo中文社区”。期间得到许多gentooer的大力支持。
+</p>
+<p>
+<b>Gentoo中文社区发展目标</b>
+</p>
+<p>
+对各种国内Gentoo相关资源进行有效整合，把Gentoo用户引导到一起交流，给新手解决问题，让高手交流技术，提高国内Gentoo发行版的普及率，最终达到提高国内Linux技术水平、回馈Gentoo官方的中长期目标。
+</p>
+<p>
+<b>Gentoo中文社区项目管理</b>
+</p>
+<p>
+主站服务器架设及管理：<uri link="http://weibo.com/zhcj">清风</uri>、<uri link="http://weibo.com/biergaizi">比尔盖子</uri>
+</p>
+<p>
+文档翻译：继续使用张乐的<uri link="http://gentoo-zh.org/trads/">翻译平台</uri>，在这里也非常感谢他为Gentoo中文做出的贡献！
+</p>
+<p>
+论坛管理：清风（暂时），招聘中。。。
+</p>
+<p>
+博客设计整合、写作者：各位Gentoo爱好者
+</p>
+<p>
+其他项目管理：详见下面项目，欢迎大家积极参与管理！
+</p>
+<p>
+<b>Gentoo中文社区项目列表</b>
+</p>
+<ul>
+        <li><b>主站</b>：官方网站的中文镜像，用来翻译官方新闻、发布国内相关新闻，链接各种国内外相关资源。</li>
+                <ul>国内已备案域名：gentoo.org.cn</ul>
+                <ul>服务器：阿里云vps</ul>
+                <ul>网站服务器软件：nginx、gorg</ul>
+        <li><b>论坛</b>：进行Gentoo学习、技术交流的场所。</li>
+        <li><b>博客</b>：整合优秀独立博客内容，发布一些个人制作的教程、技巧。在github上共同参与创作，主站同步内容。</li>
+        <li><b>文档</b>：使用gentoo-zh.org上的<uri link="http://gentoo-zh.org/trads/">翻译平台</uri>。</li>
+        <li><b>overlay项目</b>：用网站服务器同步github上的gentoo-zh到gitcafe（为什么？你懂的。。。)[暂未完成]。</li>
+        <li><b>其他</b>：QQ群、微博、IRC、邮件列表、Google Groups等，充分利用各种工具，组织大家进行交流。如<uri link="http://microcai.org/">菜菜博士</uri>的<uri link="https://github.com/avplayer/avbot">avbot</uri>，可以实现QQ群与IRC、XMPP的互通。</li>
+</ul>
+<p>
+<b>致谢</b>
+</p>
+<p>
+感谢前两次中文社区的组织者与参与者，谢谢他们为Gentoo中文化做出的巨大贡献！
+</p>
+<p>
+感谢张乐提供的中文logo资源及对社区的大力支持！
+</p>
+</body>
+</news>
